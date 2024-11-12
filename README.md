@@ -8,7 +8,7 @@ Veículo: Informações sobre os veículos dos clientes.
 Ordem de Serviço (OS): Detalhes de cada ordem de serviço.
 Mecânico: Dados dos mecânicos responsáveis pelos serviços.
 Serviço: Serviços realizados, com peças e mão de obra.
----------------------------------------------------------------------------------
+
 ## Como Usar
 Clone o repositório.
 Execute o script SQL para criar as tabelas.
